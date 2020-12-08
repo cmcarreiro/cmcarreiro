@@ -17,8 +17,8 @@
 
 ## 💻 Currently Working On
 
-- 📌Completing the [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) online course
 - 📌 Completing the [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) online course
+- 📌Completing the [The Complete Junior to Senior Web Developer Roadmap (2021)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) online course
 - 🔨 Porting the GCE-NEIIST Webapp from Angular to React
 - 😅 Participating in as many game jams as I can
 - 🎓 Finishing my BsC degree
